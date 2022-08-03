@@ -1,0 +1,5 @@
+.App{
+  min-height: 100vh;
+  display: flex;
+    background-color: rgb(206 206 206);
+}
